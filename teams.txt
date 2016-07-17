@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Russia",
+    "flag":"http://flaglane.com/download/russian-flag/russian-flag-small.jpg",
+    "head_coach": "Oleg Znarok",
+    "captain": "Pavel Datsyuk",
+    "header_pic": "http://54.186.57.223:8080/ovechkin_russia640.jpg"
+  },
+  {
+    "name": "Canada",
+    "flag":"http://flaglane.com/download/canadian-flag/canadian-flag-small.jpg",
+    "head_coach": "Bill Peters",
+    "captain": "Sidney Crosby",
+    "header_pic": "http://54.186.57.223:8080/canadacelebrates_2349-430x298.jpg"
+  },
+  {
+    "name": "USA",
+    "flag":"http://flaglane.com/download/american-flag/american-flag-small.jpg",
+    "head_coach": "John Hynes",
+    "captain": "Matt Hendricks",
+    "header_pic": "http://54.186.57.223:8080/Coyle_goal_cele_vs_SUI_large.jpeg"
+  },
+  {
+    "name": "Sweden",
+    "flag":"http://flaglane.com/download/swedish-flag/swedish-flag-small.jpg",
+    "head_coach": "Pär Mårts",
+    "captain": "Niklas Kronwall",
+    "header_pic": "http://54.186.57.223:8080/470938163_10_slide.jpg"
+  },
+  {
+    "name": "Finland",
+    "flag":"http://flaglane.com/download/finnish-flag/finnish-flag-small.jpg",
+    "head_coach": "Kari Jalonen",
+    "captain": "Mikko Koivu",
+    "header_pic": "http://54.186.57.223:8080/finn-win.jpg"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "position": "Goalie",
+    "team": "Columbus Blue Jackets, NHL",
+    "number": 72,
+    "birthdate": "September 20, 1988",
+    "birthplace": "Novokuznetsk, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8475683.jpg",
+    "height": 188,
+    "weight": 86,
+    "name": "Sergei Bobrovsky"
+  },
+  {
+    "position": "Goalie",
+    "team": "Colorado Avalanche, NHL",
+    "number": 1,
+    "birthdate": "April 27, 1988",
+    "birthplace": "Samara, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8473575.jpg",
+    "height": 188,
+    "weight": 95,
+    "name": "Semyon Varlamov"
+  },
+  {
+    "position": "Goalie",
+    "team": "Tampa Bay Lightning, NHL",
+    "number": 88,
+    "birthdate": "July 25, 1994",
+    "birthplace": "Tyumen, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8476883.jpg",
+    "height": 191,
+    "weight": 93,
+    "name": "Andrei Vasilevskiy"
+  },
+  {
+    "position": "Defenseman",
+    "team": "Florida Panthers, NHL",
+    "number": 7,
+    "birthdate": "October 29, 1990",
+    "birthplace": "Lipetsk, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8475179.jpg",
+    "height": 185,
+    "weight": 84,
+    "name": "Dmitri Kulikov"
+  },
+  {
+    "position": "Defenseman",
+    "team": "Montreal Canadiens, NHL",
+    "number": 79,
+    "birthdate": "December 20, 1978",
+    "birthplace": "Voskresensk, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8467496.jpg",
+    "height": 183,
+    "weight": 88,
+    "name": "Andrei Markov"
+  },
+  {
+    "position": "Defenseman",
+    "team": "Washington Capitals, NHL",
+    "number": 9,
+    "birthdate": "July 23, 1991",
+    "birthplace": "Novokuznetsk, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8475200.jpg",
+    "height": 183,
+    "weight": 91,
+    "name": "Dmitry Orlov"
+  },
+  {
+    "position": "Forward",
+    "team": "Chicago Blackhawks, NHL",
+    "number": 15,
+    "birthdate": "May 24, 1988",
+    "birthplace": "Yaroslavl, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8473573.jpg",
+    "height": 193,
+    "weight": 90,
+    "name": "Artem Anisimov"
+  },
+  {
+    "position": "Forward",
+    "team": "Detroit Red Wings, NHL",
+    "number": 13,
+    "birthdate": "July 20, 1978",
+    "birthplace": "Sverdlovsk, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8467514.jpg",
+    "height": 180,
+    "weight": 83,
+    "name": "Pavel Datsyuk"
+  },
+  {
+    "position": "Forward",
+    "team": "Tampa Bay Lightning, NHL",
+    "number": 86,
+    "birthdate": "June 17, 1993",
+    "birthplace": "Moscow, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8476453.jpg",
+    "height": 180,
+    "weight": 81,
+    "name": "Nikita Kucherov"
+  },
+  {
+    "position": "Forward",
+    "team": "New York Islanders, NHL",
+    "number": 41,
+    "birthdate": "July 14, 1986",
+    "birthplace": "Magnitogorsk, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8473579.jpg",
+    "height": 185,
+    "weight": 96,
+    "name": "Nikolay Kulemin"
+  },
+  {
+    "position": "Forward",
+    "team": "Washington Capitals, NHL",
+    "number": 92,
+    "birthdate": "May 19, 1992",
+    "birthplace": "Chelyabinsk, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8475744.jpg",
+    "height": 183,
+    "weight": 86,
+    "name": "Evgeny Kuznetsov"
+  },
+  {
+    "position": "Forward",
+    "team": "Pittsburgh Penguins, NHL",
+    "number": 11,
+    "birthdate": "July 31, 1986",
+    "birthplace": "Magnitogorsk, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8471215.jpg",
+    "height": 191,
+    "weight": 88,
+    "name": "Evgeni Malkin"
+  },
+  {
+    "position": "Forward",
+    "team": "Tampa Bay Lightning, NHL",
+    "number": 90,
+    "birthdate": "November 22, 1992",
+    "birthplace": "Zhukovskiy, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8476480.jpg",
+    "height": 180,
+    "weight": 77,
+    "name": "Vladislav Namestnikov"
+  },
+  {
+    "position": "Forward",
+    "team": "Washington Capitals, NHL",
+    "number": 8,
+    "birthdate": "September 17, 1985",
+    "birthplace": "Moscow, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8471214.jpg",
+    "height": 191,
+    "weight": 108,
+    "name": "Alex Ovechkin"
+  },
+  {
+    "position": "Forward",
+    "team": "Chicago Blackhawks, NHL",
+    "number": 27,
+    "birthdate": "October 30, 1991",
+    "birthplace": "Korkino, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8478550.jpg",
+    "height": 180,
+    "weight": 77,
+    "name": "Artemi Panarin"
+  },
+  {
+    "position": "Forward",
+    "team": "St. Louis Blues, NHL",
+    "number": 91,
+    "birthdate": "December 13, 1991",
+    "birthplace": "Yaroslavl, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8475765.jpg",
+    "height": 183,
+    "weight": 99,
+    "name": "Vladimir Tarasenko"
+  },
+{
+    "position": "Forward",
+    "team": "Dallas Stars, NHL",
+    "number": 43,
+    "birthdate": "March 4, 1995",
+    "birthplace": "Chelyabinsk, RUS",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8477501.jpg",
+    "height": 195,
+    "weight": 93,
+    "name": "Valeri Nichushkin"
+  },
+{
+    "position": "Forward",
+    "team": "SKA (Saint Petersburg), KHL",
+    "number": 71,
+    "birthdate": "April 15, 1983",
+    "birthplace": "Tver, RUS",
+    "imageUrl": "http://en.khl.ru/images/teamplayers/5788/3582.jpg",
+    "height": 189,
+    "weight": 103,
+    "name": "Ilya Kovalchuk"
+  }
+]

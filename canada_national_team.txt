@@ -1,0 +1,178 @@
+[
+  {
+    "position": "Goalie",
+    "team": "Chicago Blackhawks, NHL",
+    "number": 50,
+    "birthdate": "December 31, 1984",
+    "birthplace": "Montreal, QC, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8470645.jpg",
+    "height": 188,
+    "weight": 94,
+    "name": "Corey Crawford"
+  },
+  {
+    "position": "Goalie",
+    "team": "Washington Capitals, NHL",
+    "number": 70,
+    "birthdate": "September 16, 1989",
+    "birthplace": "Lloydminster, SK, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8474651.jpg",
+    "height": 188,
+    "weight": 92,
+    "name": "Braden Holtby"
+  },
+  {
+    "position": "Goalie",
+    "team": "Montréal Canadiens, NHL",
+    "number": 31,
+    "birthdate": "August 16, 1987",
+    "birthplace": "Anahim Lake, BC, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8471679.jpg",
+    "height": 191,
+    "weight": 98,
+    "name": "Carey Price"
+  },
+  {
+    "position": "Defenseman",
+    "team": "Los Angeles Kings, NHL",
+    "number": 8,
+    "birthdate": "December 8, 1989",
+    "birthplace": "London, ON, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8474563.jpg",
+    "height": 185,
+    "weight": 88,
+    "name": "Drew Doughty"
+  },
+  {
+    "position": "Defenseman",
+    "team": "Chicago Blackhawks, NHL",
+    "number": 2,
+    "birthdate": "July 16, 1983",
+    "birthplace": "Winnipeg, MB, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8470281.jpg",
+    "height": 188,
+    "weight": 87,
+    "name": "Duncan Keith"
+  },
+  {
+    "position": "Defenseman",
+    "team": "San Jose Sharks, NHL",
+    "number": 44,
+    "birthdate": "March 30, 1987",
+    "birthplace": "Montreal, QC, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8471709.jpg",
+    "height": 185,
+    "weight": 91,
+    "name": "Marc-Edouard Vlasic"
+  },
+  {
+    "position": "Defenseman",
+    "team": "Nashville Predators, NHL",
+    "number": 6,
+    "birthdate": "August 14, 1985",
+    "birthplace": "Sicamous, BC, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8470642.jpg",
+    "height": 196,
+    "weight": 107,
+    "name": "Shea Weber"
+  },
+  {
+    "position": "Forward",
+    "team": "Dallas Stars, NHL",
+    "number": 14,
+    "birthdate": "July 18, 1989",
+    "birthplace": "Victoria, BC, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8473994.jpg",
+    "height": 188,
+    "weight": 95,
+    "name": "Jamie Benn"
+  },
+  {
+    "position": "Forward",
+    "team": "Boston Bruins, NHL",
+    "number": 37,
+    "birthdate": "July 24, 1985",
+    "birthplace": "Ancienne-Lorette, QC, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8470638.jpg",
+    "height": 188,
+    "weight": 88,
+    "name": "Patrice Bergeron"
+  },
+  {
+    "position": "Forward",
+    "team": "Los Angeles Kings, NHL",
+    "number": 77,
+    "birthdate": "January 1, 1985",
+    "birthplace": "London, ON, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8470604.jpg",
+    "height": 193,
+    "weight": 95,
+    "name": "Jeff Carter"
+  },
+  {
+    "position": "Forward",
+    "team": "Pittsburgh Penguins, NHL",
+    "number": 87,
+    "birthdate": "August 7, 1987",
+    "birthplace": "Cole Harbour, NS, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8471675.jpg",
+    "height": 180,
+    "weight": 91,
+    "name": "Sidney Crosby"
+  },
+  {
+    "position": "Forward",
+    "team": "Anaheim Ducks, NHL",
+    "number": 15,
+    "birthdate": "May 10, 1985",
+    "birthplace": "Regina, SK, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8470612.jpg",
+    "height": 193,
+    "weight": 100,
+    "name": "Ryan Getzlaf"
+  },
+  {
+    "position": "Forward",
+    "team": "Dallas Stars, NHL",
+    "number": 91,
+    "birthdate": "January 31, 1992",
+    "birthplace": "Brampton, ON, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8475794.jpg",
+    "height": 185,
+    "weight": 91,
+    "name": "Tyler Seguin"
+  },
+  {
+    "position": "Forward",
+    "team": "Tampa Bay Lightning, NHL",
+    "number": 91,
+    "birthdate": "February 7, 1990",
+    "birthplace": "Markham, ON, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8474564.jpg",
+    "height": 185,
+    "weight": 188,
+    "name": "Steven Stamkos"
+  },
+  {
+    "position": "Forward",
+    "team": "New York Islanders, NHL",
+    "number": 20,
+    "birthdate": "September 20, 1990",
+    "birthplace": "Mississauga, ON, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8475166.jpg",
+    "height": 185,
+    "weight": 93,
+    "name": "John Tavares"
+  },
+  {
+    "position": "Forward",
+    "team": "Chicago Blackhawks, NHL",
+    "number": 19,
+    "birthdate": "April 29, 1988",
+    "birthplace": "Winnipeg, MB, CAN",
+    "imageUrl": "https://nhl.bamcontent.com/images/headshots/current/168x168/8473604.jpg",
+    "height": 188,
+    "weight": 94,
+    "name": "Jonathan Toews"
+  }
+]
